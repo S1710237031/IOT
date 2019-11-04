@@ -34,7 +34,7 @@ Receiver input range | –7..12 V
 Max driver output voltage | –7..12 V
 Min driver output voltage (with load) | ±1.5 V
 
-<./img/RS485_bus.gif>
+![RS485 bus](img/RS485_bus.gif)
  
 ## RS232:
 Terminal Modem, füher in PCs heute in Industrie und laborgeräten

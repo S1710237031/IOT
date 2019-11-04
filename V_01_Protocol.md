@@ -1,4 +1,3 @@
-*1 
 Java,C,C++,JS,PHP,TypeScript
 
 only in the HNP lecture (ESP...)
@@ -12,7 +11,7 @@ It’s meant to connect a lot of simple technical things to one big network whic
 
 I'm curious
 
-*2
+
 Digitalisation
 smart home
 wearables
@@ -23,7 +22,6 @@ Bluetooth
 Raspberry Pi
 Arduino
 
-*2 
 ###### Combined=
 Mobility
 Digitalisation
@@ -42,4 +40,5 @@ Arduino
 cyber security
 hard to make it work (Complexety)
 
-<./V_02_Protocol.txt>
+![1st Technical Exercise](E_01_Protocol.md)
+![2nd Lecture Protocol](V_02_Protocol.md)
