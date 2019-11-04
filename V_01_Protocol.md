@@ -40,5 +40,6 @@ Arduino
 cyber security
 hard to make it work (Complexety)
 
-[1st Technical Exercise](E_01_Protocol.md)
+[1st Lab Protocol](E_01_Protocol.md)
+
 [2nd Lecture Protocol](V_02_Protocol.md)

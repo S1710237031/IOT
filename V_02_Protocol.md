@@ -59,3 +59,7 @@ Clock frequency <= Mhz
 16,3 kbs
 Master slave use
 15m
+
+[2nd Lab Protocol](E_02_Protocol.md)
+
+[3rd Lecture Protocol](V_03_Protocol.md)
