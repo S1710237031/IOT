@@ -2,3 +2,5 @@
 App to private message the counselor, on problems or request help, the app also supports emergency button to request help (also includes emergency calls on click). Every class is also equipped with an emergency button next to the door (this button informs the police and ambulance)
 All those buttons will be connected to a centralized Databank via the already established WIFI network, the centralized components logs all events from the apps and the buttons, it is also in charge of informing the police and ambulance on emergencies.
 Max is 12 years old, he attends middle School in Washington DC, every student in this school must own a phone with the app installed. One day the silent kid in the back row is wearing a trench coat and seems very nervous. Max is really scared and contacts the counselor via a private message, the counselor reacts immediately because of the push function, which informs him about the Students Message”c1: Max: I’m feeling anxious”(anonymous messages are also possible). The counselor informs him that he will be visiting his class in the next break, to check out the current situation.
+
+[2nd Lecture Protocol](V_02_Protocol.md)
