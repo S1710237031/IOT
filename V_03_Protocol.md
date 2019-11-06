@@ -150,7 +150,3 @@ Some other notes on POST requests:
 - POST requests do not remain in the browser history
 - POST requests cannot be bookmarked
 - POST requests have no restrictions on data length
-
-[3rd Lab Protocol](E_03_Protocol.md)
-
-[4th Lecture Protocol](V_04_Protocol.md)
