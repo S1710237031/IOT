@@ -22,4 +22,4 @@ I'm curious
 
 [1st Lecture Protocol](V_01_Protocol.md)
 
-[1st Reflection] (E_01_Reflection.md)
+[1st Reflection](E_01_Reflection.md)
