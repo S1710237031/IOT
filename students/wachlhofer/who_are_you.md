@@ -17,3 +17,9 @@ It’s meant to connect a lot of simple technical things to one big network whic
 
 - What are your expectations from this class?
 I'm curious
+
+[1st Lab Protocol](E_01_Protocol.md)
+
+[1st Lecture Protocol](V_01_Protocol.md)
+
+[1st Reflection] (E_01_Reflection.md)

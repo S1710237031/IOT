@@ -16,23 +16,23 @@ Fog: Measurement components are capturing Data and send them to a Edge centraliz
 
 ## RS485:
 Automation, Industies 
- 	| RS485
-----|------	
-Differential | yes
-Max number of drivers | 32
-Max number of receivers | 32
-Modes of operation | half duplex 
-Network topology | multipoint
-Max distance (acc. standard) | 1200 m
-Max speed at 12 m | 35 Mbs
-Max speed at 1200 m	| 100 kbs
-Max slew rate | n/a
-Receiver input resistance | >= 12 kΩ
-Driver load impedance | 54 Ω
-Receiver input sensitivity | ±200 mV
-Receiver input range | –7..12 V
-Max driver output voltage | –7..12 V
-Min driver output voltage (with load) | ±1.5 V
+| 	| RS485|
+|----|------|
+|Differential | yes|
+|Max number of drivers | 32|
+|Max number of receivers | 32|
+|Modes of operation | half duplex| 
+|Network topology | multipoint|
+|Max distance (acc. standard) | 1200 m|
+|Max speed at 12 m | 35 Mbs|
+|Max speed at 1200 m	| 100 kbs|
+|Max slew rate | n/a|
+|Receiver input resistance | >= 12 kΩ|
+|Driver load impedance | 54 Ω|
+|Receiver input sensitivity | ±200 mV|
+|Receiver input range | –7..12 V|
+|Max driver output voltage | –7..12 V|
+|Min driver output voltage (with load) | ±1.5 V|
 
 ![RS485 bus](img/RS485_bus.gif)
  
@@ -59,7 +59,3 @@ Clock frequency <= Mhz
 16,3 kbs
 Master slave use
 15m
-
-[2nd Lab Protocol](E_02_Protocol.md)
-
-[3rd Lecture Protocol](V_03_Protocol.md)
