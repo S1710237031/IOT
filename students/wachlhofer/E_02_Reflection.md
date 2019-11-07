@@ -1,0 +1,1 @@
+In the second lab we had to finish some of the old work but with some help of Ulrich we finished the Wi-Fi connection between the Arduino with the button and Arduino with the led, and  even the connection to the Telegram API was done in way less time. It was a great relief and was helping me to start the next exercises with much more enthusiasm.
